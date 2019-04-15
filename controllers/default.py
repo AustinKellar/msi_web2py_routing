@@ -1,5 +1,5 @@
 
-list_of_numbers = [ 1, 2, 3, 4, 5]
+list_of_numbers = [-1, 20, 14, 15, 3, 10, 33, 59, 60, 12, 0]
 
 def index():
     return dict()
